@@ -1,0 +1,9 @@
+Flask==3.0.3
+gunicorn
+Werkzeug==3.0.0
+
+Flask-Cors==3.0.10
+pycryptodome==3.17
+PyExecJS
+requests==2.28.2
+gevent==24.2.1
